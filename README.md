@@ -40,11 +40,6 @@
   </a>
 </p>
 
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav10261&show_icons=true&theme=default" alt="Pranav's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav10261&layout=compact&theme=default" alt="Top Languages" height="165"/>
-</p>
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranav10261&theme=default" alt="GitHub Streak" />
