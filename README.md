@@ -8,9 +8,9 @@
 ---
 
 ### 🔭 What I'm working on
-- 📊 Data analysis projects — sales, Pokémon, and IBM employee datasets ([Data-Analysis](https://github.com/Pranav10261/Data-Analysis))
+- 📊 Data analysis projects — sales, Pokémon, and IBM employee datasets ([Data-Analysis](https://github.com/Pranav10261/Data-analysis))
 - 🌦️ ML-based weather prediction for Kochi using historical data ([ML-projects](https://github.com/Pranav10261/ML-projects))
-- 🛠️ Assorted Python tools & games — CSV analyser, stock price viewer, terminal game, weather dashboard ([General_projects](https://github.com/Pranav10261/General_projects))
+- 🛠️ Assorted Python tools & games — CSV analyser, stock price viewer, terminal game, weather dashboard ([General_projects](https://github.com/Pranav10261/General-projects))
 
 ### 🌱 Currently learning
 - Machine learning fundamentals (regression, classification, model evaluation)
